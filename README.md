@@ -1,0 +1,1 @@
+This is a simple port scanning python script that can scan either ports are opened or closed normally or anonymously. everything is provided in this code just have to download few libraries that are imported
